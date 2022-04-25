@@ -114,11 +114,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I am a coder with accolades from many institutions of knowledge that I claim great pride in. I graduated from Texas A&M University with a Bachelor's in Geophysics in December of 2017. Prior to that, I graduated from Carnegie Vanguard High School in 2013. Both of these places gave me an excellent foundation in which I have used to build a skill that is continuously worked on, toiled over, and finely crafted over time.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their thoughts at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing that specific bug is always such a rewarding experience. Not only that, it's the satisfaction of seeing that same bug pop up, and fixing it immediately. It's the little things like these that always bring me back to my IDE for another session of creation.",
   aboutImage:
     "https://media-exp1.licdn.com/dms/image/C4E03AQH3QvzVbdU2VA/profile-displayphoto-shrink_800_800/0/1517632062156?e=1656547200&v=beta&t=jXMeq0DurkhbNzqikRygfz7jbLSJK3Co2gDGY4B79jA&auto=format&fit=crop&w=334&q=80",
 
