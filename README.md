@@ -1,23 +1,13 @@
 
 
 
-```javascript
-/* Change this file to get your Personal Porfolio */
- // Edit Values of these variables
+Inspiration drawn from github project: https://github.com/chetanverma16/react-portfolio-template
 
-name:"Vijhn",
-headerTagline: [
-    "Building digital",.... 
-]
+Technologies Used: React and Gatsby 
 
-```
+Made by Vijhn Austin
 
 
-
-## Technologies Used
-
-- [React](https://reactjs.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
 
 
 
