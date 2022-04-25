@@ -1,13 +1,14 @@
 
 
+Portfolio Netlify link: https://elaborate-mandazi-4af073.netlify.app/
 
-Inspiration drawn from github project: https://github.com/chetanverma16/react-portfolio-template
 
 Technologies Used: React and Gatsby 
 
+Inspiration drawn from github user @chetanverma16 
+
 Made by Vijhn Austin
 
-Netlify link: https://elaborate-mandazi-4af073.netlify.app/
 
 
 
