@@ -1,23 +1,15 @@
 
 
-
-```javascript
-/* Change this file to get your Personal Porfolio */
- // Edit Values of these variables
-
-name:"Vijhn",
-headerTagline: [
-    "Building digital",.... 
-]
-
-```
+Portfolio Netlify link: https://elaborate-mandazi-4af073.netlify.app/
 
 
+Technologies Used: React and Gatsby 
 
-## Technologies Used
+Inspiration drawn from github user @chetanverma16 
 
-- [React](https://reactjs.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
+Made by Vijhn Austin
+
+
 
 
 
