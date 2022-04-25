@@ -5,8 +5,7 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import pythonIcon from "./images/python.svg"
 import javaIcon from "./images/java.svg"
-import cIcon from "./images/c.svg"
-import codeIcon from "./images/code.svg"
+import gatsbyIcon from "./images/gatsby.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -30,7 +29,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am professional freelance coder with 4 years of experience and projects under my belt. I enjoy looking for a new challenge every time I open my text editor.",
+    "I am professional freelance coder with 5 years of experience and projects under my belt.",
 
   //Contact Email
   contactEmail: "vijhn.austin@gmail.com",
@@ -143,7 +142,7 @@ export default {
     {
       img: jsIcon,
       para:
-        "Javascript is the workhorse that can alter HTML and CSS in real time, allowing the user high levels of interactibility with web browser data. ",
+        "Javascript is the workhorse that can alter HTML and CSS in real time, allowing the user high levels of interactibility with web browser data.",
     },
     {
       img: reactIcon,
@@ -161,11 +160,10 @@ export default {
         "Java, not to be confused with Javascript, is an industry standard in many fields. It's been established as a enterprise language, so to speak, due to how many established businesses use it.",
     },
     {
-      img: cIcon,
+      img: gatsbyIcon,
       para:
-        "C++ is very useful in game development and physics engine work. ",
-    },
-  
+        "Gatsby a React-based, GraphQL powered, static site generator. This framework allows for extremely fast and efficient deployments, such as this site."
+    }
   ],
 
   // End Skills Section --------------------------
