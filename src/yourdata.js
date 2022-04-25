@@ -3,7 +3,9 @@ import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
+import pythonIcon from "./images/python.svg"
+import javaIcon from "./images/java.svg"
+import cIcon from "./images/c.svg"
 import codeIcon from "./images/code.svg"
 
 // Social Icon
@@ -28,7 +30,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "I am professional freelance coder with 4 years of experience and projects under my belt. I enjoy looking for a new challenge every time I open my text editor.",
 
   //Contact Email
   contactEmail: "vijhn.austin@gmail.com",
@@ -131,42 +133,48 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        " HTML is the skeleton of the front end development.",
     },
     {
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "CSS changes how a web page appears, on a static level.",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Javascript is the workhorse that can alter HTML and CSS in real time, allowing the user high levels of interactibility with web browser data. ",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "React is a Javascript library built for creating reusable UI components. React is being used on this site right now. ",
     },
     {
-      img: designIcon,
+      img: pythonIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Python is a powerful language with robust AI, data processing and visualization libraries. Its ease of use and simple syntax make it a pleasure to use. ",
     },
     {
-      img: codeIcon,
+      img: javaIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Java, not to be confused with Javascript, is an industry standard in many fields. It's been established as a enterprise language, so to speak, due to how many established businesses use it.",
     },
+    {
+      img: cIcon,
+      para:
+        "C++ is very useful in game development and physics engine work. ",
+    },
+  
   ],
 
   // End Skills Section --------------------------
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "Services",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "If you are interested in creating a new online project, I am available for consultation at competitve market rates. Please feel free to contact me through any of the platforms on the bottom of the page for more information.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
