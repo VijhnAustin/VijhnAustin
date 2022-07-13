@@ -112,7 +112,7 @@ export default {
   aboutParaTwo:
     "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their thoughts at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing that specific bug is always such a rewarding experience. Not only that, it's the satisfaction of seeing that same bug pop up, and fixing it immediately. It's the little things like these that always bring me back to my IDE for another session of creation.",
   aboutImage:
-    "https://media-exp1.licdn.com/dms/image/C4E03AQH3QvzVbdU2VA/profile-displayphoto-shrink_800_800/0/1517632062156?e=1656547200&v=beta&t=jXMeq0DurkhbNzqikRygfz7jbLSJK3Co2gDGY4B79jA&auto=format&fit=crop&w=334&q=80",
+    "https://media-exp2.licdn.com/dms/image/C4E03AQH3QvzVbdU2VA/profile-displayphoto-shrink_800_800/0/1517632062156?e=1663200000&v=beta&t=6zCaoiD6Ms9QFMlS7nGrYR9_ViDnJM1YComG9uKN3I4",
 
   //   End About Section ---------------------
 
