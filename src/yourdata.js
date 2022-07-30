@@ -29,7 +29,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am professional freelance coder with 5 years of experience and projects under my belt.",
+    "I am a freelance coder with 5 years of experience and projects under my belt.",
 
   //Contact Email
   contactEmail: "vijhn.austin@gmail.com",
@@ -82,7 +82,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am a coder with accolades from many institutions of knowledge that I claim great pride in. I graduated from Texas A&M University with a Bachelor's in Geophysics in December of 2017. Prior to that, I graduated from Carnegie Vanguard High School in 2013. Both of these places gave me an excellent foundation in which I have used to build a skill that is continuously worked on, toiled over, and finely crafted over time.",
+    "I graduated from Texas A&M University with a Bachelor's in Geophysics in December of 2017. Prior to that, I graduated from Carnegie Vanguard High School in 2013. Both of these institutions gave me an excellent foundation in which I have used to build a skill that is continuously worked on and and finely crafted over time.",
   aboutParaTwo:
     "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their thoughts at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing that specific bug is always such a rewarding experience. Not only that, it's the satisfaction of seeing that same bug pop up, and fixing it immediately. It's the little things like these that always bring me back to my IDE for another session of creation.",
   aboutImage:
