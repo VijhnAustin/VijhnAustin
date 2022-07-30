@@ -14,8 +14,8 @@ import instagramIcon from "./images/instagram.svg"
 import twitterIcon from "./images/twitter.svg"
 
 export default {
-  //(Please Do Not Remove The comma(,) after every variable)
-  //Change The Website Template
+  //
+  //
 
   //   Header Details ---------------------
   name: "Vijhn",
@@ -39,57 +39,57 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Website designed in CSS", //Project Title - Add Your Project Title Here
-      para:"Designed to display the power of simple CSS and HTML, this website has an impressive landing page with all the necessary info for a small business. ",
-      //Project Image - Add Your Project Image Here
+      title: "Restaurant's website designed in CSS and JS", 
+      para:"Designed to display the ease and convenience of a simple and efficient layout, this website has an impressive landing page with all the necessary info for a small business. ",
+      
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://leelasbistro.w3spaces.com/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Project Two", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      //Project Image - Add Your Project Image Here
+      
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://github.com/VijhnAustin",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Project Three", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      //Project Image - Add Your Project Image Here
+      
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://github.com/VijhnAustin",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Project Four", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      //Project Image - Add Your Project Image Here
+      
       imageSrc:
         "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://github.com/VijhnAustin",
     },
     {
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Project Five", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      //Project Image - Add Your Project Image Here
+      
       imageSrc:
         "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://github.com/VijhnAustin",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Project Six", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      //Project Image - Add Your Project Image Here
+      
       imageSrc:
         "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
+      
       url: "https://github.com/VijhnAustin",
     },
 
@@ -118,7 +118,7 @@ export default {
 
   // Skills Section ---------------
 
-  //   Import Icons from the top and link it here
+  
 
   skills: [
     {
