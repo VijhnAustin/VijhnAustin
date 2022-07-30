@@ -39,6 +39,15 @@ export default {
   // Work Section ------------------------
   projects: [
     {
+      title: "Requisite Designs LLC", 
+      para:"Elevate Your Digital Presence WEBSITE DESIGN | SEO | DIGITAL MARKETING",
+      
+      imageSrc:
+        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      
+      url: "https://requisitedesigns.com/",
+    },
+    {
       title: "Restaurant's website designed in CSS and JS", 
       para:"Designed to display the ease and convenience of a simple and efficient layout, this website has an impressive landing page with all the necessary info for a small business. ",
       
@@ -47,15 +56,7 @@ export default {
       
       url: "https://leelasbistro.w3spaces.com/",
     },
-    {
-      title: "Project Two", 
-      para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      
-      imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      
-      url: "https://github.com/VijhnAustin",
-    },
+
     {
       title: "Project Three", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
@@ -65,34 +66,7 @@ export default {
       
       url: "https://github.com/VijhnAustin",
     },
-    {
-      title: "Project Four", 
-      para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      
-      url: "https://github.com/VijhnAustin",
-    },
-    {
-      title: "Project Five", 
-      para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      
-      url: "https://github.com/VijhnAustin",
-    },
-    {
-      title: "Project Six", 
-      para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
-      
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      
-      url: "https://github.com/VijhnAustin",
-    },
-
+   
     /*
     If You Want To Add More Project just Copy and Paste This At The End
     ,{
