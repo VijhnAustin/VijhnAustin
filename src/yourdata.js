@@ -58,7 +58,7 @@ export default {
     },
 
     {
-      title: "Project Three", 
+      title: "Github", 
       para:"A collection of my projects across the years. At the moment, they are most centrally located on Github, where these works are open source.",
       
       imageSrc:
