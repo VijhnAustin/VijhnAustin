@@ -29,7 +29,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am a freelance coder with 5 years of experience and projects under my belt.",
+    "I am a professional and freelance coder with years of experience and projects under my belt.",
 
   //Contact Email
   contactEmail: "vijhn.austin@gmail.com",
