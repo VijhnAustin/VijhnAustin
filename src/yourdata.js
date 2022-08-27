@@ -82,9 +82,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I graduated from Texas A&M University with a Bachelor's in Geophysics in December of 2017. Prior to that, I graduated from Carnegie Vanguard High School in 2013. Both of these institutions gave me an excellent foundation in which I have used to build a skill that is continuously worked on and and finely crafted over time.",
+    "I graduated from Texas A&M University with a Bachelor's in Geophysics in December of 2017. Prior to that, I graduated from Carnegie Vanguard. Both of these institutions gave me an excellent foundation in which I have used to build the skill of software design that is continuously worked on and and finely crafted over time. During my time at Requisite Designs, I learned to use that skill in a collaborative setting. My team and I worked with a wide range of clients with varying project scales and timelines. Some businesses just need a landing page with an about section and contact information, while others may need an online webstore, complete with payment processing options, database management with order and customer data, and security maintenence.",
   aboutParaTwo:
-    "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their thoughts at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing that specific bug is always such a rewarding experience. Not only that, it's the satisfaction of seeing that same bug pop up, and fixing it immediately. It's the little things like these that always bring me back to my IDE for another session of creation.",
+    "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their vision and intent at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing an error that has been tough is always such a rewarding experience. Life always brings me back to IDE for another session of creation.",
   aboutImage:
     "https://media-exp2.licdn.com/dms/image/C4E03AQH3QvzVbdU2VA/profile-displayphoto-shrink_800_800/0/1517632062156?e=1663200000&v=beta&t=6zCaoiD6Ms9QFMlS7nGrYR9_ViDnJM1YComG9uKN3I4",
 
