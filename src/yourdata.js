@@ -21,11 +21,11 @@ export default {
   name: "Vijhn",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Creating digital",
     //Line 2 For Header
-    "products, brands,",
+    "businesses, brands,",
     //Line 3 For Header
-    "and experience",
+    "and platforms for growth.",
   ],
   //   Header Paragraph
   headerParagraph:
