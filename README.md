@@ -1,11 +1,10 @@
 
 
-Portfolio Netlify link: https://elaborate-mandazi-4af073.netlify.app/
+Portfolio: VijhnAustin.com
 
 
-Technologies Used: React and Gatsby 
+Technologies Used: React, Javascript, Gatsby and of course HTML and CSS. 
 
-Made by Vijhn Austin
 
 
 
