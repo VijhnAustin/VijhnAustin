@@ -1,6 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
+import logo from "../images/logo.png"
 
 const Footer = () => {
   return (
@@ -30,9 +31,12 @@ const Footer = () => {
             Made With <icon>❤</icon> by{" "}
             <a href="https://github.com/VijhnAustin">Vijhn Austin</a>
           </span>
+          <div className="logo-container">
+            <img src={logo} alt="Logo" />
         </div>
       </div>
     </div>
+   </div>
   )
 }
 
