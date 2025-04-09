@@ -6,6 +6,8 @@ import jsIcon from "./images/javascript.svg"
 import pythonIcon from "./images/python.svg"
 import javaIcon from "./images/java.svg"
 import gatsbyIcon from "./images/gatsby.svg"
+import grad from "./images/grad.png"
+
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -86,7 +88,7 @@ export default {
   aboutParaTwo:
     "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their vision and intent at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing an error that has been tough is always such a rewarding experience. Life always brings me back to IDE for another session of creation.",
   aboutImage:
-    "/images/grad.png",
+    grad,
 
   //   End About Section ---------------------
 
