@@ -48,13 +48,13 @@ export default {
       url: "https://requisitedesigns.com/",
     },
     {
-      title: "Restaurant's website designed in CSS and JS", 
+      title: "Marcelin Engineering LLC", 
       para:"Designed to display the ease and convenience of a simple and efficient layout, this website has an impressive landing page with all the necessary info for a small business. ",
       
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       
-      url: "https://leelasbistro.com/",
+      url: "https://marcelinengineering.com/",
     },
 
     {
@@ -86,7 +86,7 @@ export default {
   aboutParaTwo:
     "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their vision and intent at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing an error that has been tough is always such a rewarding experience. Life always brings me back to IDE for another session of creation.",
   aboutImage:
-    "https://media.licdn.com/dms/image/v2/C4E03AQH3QvzVbdU2VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517632062966?e=1739404800&v=beta&t=P6jX3ccGgf3uzQbETxwsfLVLywJ0hWC7R-5CsFD5D04",
+    "./images/grad.png",
 
   //   End About Section ---------------------
 
