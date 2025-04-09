@@ -86,7 +86,7 @@ export default {
   aboutParaTwo:
     "I view challenges as opportunities to grow, and every person who has touched a keyboard with an attempt at writing code has had challenges in implementing their vision and intent at one point or another. Syntax and logic errors can lead to temporary frustration, but that feeling of fixing an error that has been tough is always such a rewarding experience. Life always brings me back to IDE for another session of creation.",
   aboutImage:
-    "./images/grad.jpg",
+    "/images/grad.png",
 
   //   End About Section ---------------------
 
